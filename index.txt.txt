@@ -1,1 +1,1 @@
-version 1 of my software
+version 2 of my software
